@@ -1,4 +1,4 @@
-"use client"
+"use client";
 
 import { ThemeProvider } from "@/providers/ThemeProvider";
 import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatingOverlay/NavbarLayoutFloatingOverlay';
@@ -118,8 +118,7 @@ export default function Home() {
               company: "Elegant Events Co.",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/3777565/pexels-photo-3777565.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Sarah Thompson",
-              testimonial: "David's acoustic performances transformed our weddings into magical experiences. His ability to read the crowd and play the perfect songs at the perfect moments is unmatched."
+              imageAlt: "Portrait of Sarah Thompson"
             },
             {
               id: "2",
@@ -128,8 +127,7 @@ export default function Home() {
               company: "Soundwave Studios",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/7588101/pexels-photo-7588101.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Michael Rodriguez",
-              testimonial: "Working with David on our album was incredible. His guitar work added layers of emotion and complexity that elevated every track. True professional."
+              imageAlt: "Portrait of Michael Rodriguez"
             },
             {
               id: "3",
@@ -138,8 +136,7 @@ export default function Home() {
               company: "Berkeley Music School",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/8546799/pexels-photo-8546799.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of Emma Chen",
-              testimonial: "David's teaching style is patient and inspiring. He helped me overcome my technical barriers and find my own voice as a guitarist. Highly recommend!"
+              imageAlt: "Portrait of Emma Chen"
             },
             {
               id: "4",
@@ -148,8 +145,7 @@ export default function Home() {
               company: "Independent Musician",
               rating: 5,
               imageSrc: "https://images.pexels.com/photos/7586647/pexels-photo-7586647.jpeg?auto=compress&cs=tinysrgb&h=650&w=940",
-              imageAlt: "Portrait of James Wilson",
-              testimonial: "David brought my songs to life with his guitar arrangements. His musicality and creativity turned good songs into great ones. Can't wait to work together again."
+              imageAlt: "Portrait of James Wilson"
             }
           ]}
         />
